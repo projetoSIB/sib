@@ -1,6 +1,6 @@
 &nbsp;<img align="center" height="60" width="160" src="https://github.com/xmariaxrita/sib/assets/134535391/fabf5b76-2b35-4556-9ff1-09fc2afba66f" alt="sib">
 
-O **SIB (Sistema Informatizado para Bibliotecas)** é um projeto de extensão do **IFRN - Campus Santa Cruz**. Cujo objetivo é modernizar a gestão de bibliotecas públicas, facilitando a consulta, empréstimo e devolução de livros, além de melhorar a experiência de usuários e bibliotecários.
+O **SIB (Sistema Informatizado para Bibliotecas)** é um projeto de extensão do **IFRN - Campus Santa Cruz**. Cujo objetivo é modernizar a gestão de bibliotecas públicas, facilitando a consulta, empréstimo e devolução de livros, além de melhorar a experiência de usuários e bibliotecários. Protótipo no [Figma](https://www.figma.com/design/KrJI1muMsrr4KM93sBtYbo/SIB-(Copy)?node-id=0-1&t=5VBLJrTO34SJPekt-1).
 
 ### Desenvolvido por:
 - [Ana Beatriz](https://github.com/ana0beatrix)
